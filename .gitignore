@@ -1,0 +1,4 @@
+.env
+node_modules
+DB_NAME=O-E-S-B
+DB_PASSWORD=ukTq4jV2FkssLg@
