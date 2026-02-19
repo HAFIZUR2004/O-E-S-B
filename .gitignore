@@ -1,4 +1,7 @@
-.env
 node_modules
 DB_NAME=O-E-S-B
 DB_PASSWORD=ukTq4jV2FkssLg@
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
